@@ -1,0 +1,6 @@
+Agentic RAG Architecture
+
+Retrieval-Augmented Generation couples dense retrieval with generation.
+Adaptive agents plan and execute multi-hop retrieval queries.
+
+Key capabilities include query decomposition and claim verification.

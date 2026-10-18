@@ -1,0 +1,2 @@
+Legacy Note: “Adaptive Retrieval Systems”.
+System parameters: threshold = 0.85.

@@ -1,0 +1,83 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Agentic RAG Paper)
+/Author (Lead Researcher)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 5 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents <<
+/Length 160
+>>
+stream
+BT /F1 12 Tf 72 700 Td (Section 1: Agentic RAG System Introduction) Tj 0 -20 Td (Traditional RAG retrieves documents in a single pass without adaptation.) Tj ET
+endstream
+>>
+endobj
+5 0 obj
+<<
+/Type /Page
+/Resources <<
+/Font <<
+/F1 <<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+>>
+>>
+/MediaBox [ 0.0 0.0 612 792 ]
+/Parent 2 0 R
+/Contents <<
+/Length 162
+>>
+stream
+BT /F1 12 Tf 72 700 Td (Section 2: Adaptive Planning and Verification) Tj 0 -20 Td (Multi-hop evaluation verifies atomic claims against retrieved evidence.) Tj ET
+endstream
+>>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000107 00000 n 
+0000000172 00000 n 
+0000000221 00000 n 
+0000000592 00000 n 
+trailer
+<<
+/Size 6
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+965
+%%EOF
